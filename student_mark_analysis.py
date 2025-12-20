@@ -1,7 +1,6 @@
 """
-Program Name: Student Marks Analysis
-Description: Inputs marks of 10 students and displays
-             maximum, minimum, and average marks. """
+This is a program to input marks of 10 students and displays
+maximum, minimum, and average marks. """
 
 marks = []  #list to store marks
 sum = 0

@@ -14,5 +14,6 @@ The goal of this repository is to practice core Python concepts and build a stro
 Some example projects in this repository:
 - Student Mark Analysis
 - Student Grade Analysis
+- Sum of a Series
 
 (More projects will be added as I continue learning.)

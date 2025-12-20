@@ -12,6 +12,7 @@ The goal of this repository is to practice core Python concepts and build a stro
 ### 📂 Projects Included
 
 Some example projects in this repository:
-- Grade Calculator
+- Student Mark Analysis
+- Student Grade Analysis
 
 (More projects will be added as I continue learning.)
